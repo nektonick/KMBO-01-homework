@@ -54,7 +54,7 @@
     
     
 - ### Дискретная математика:
-    Дз публикуется в [группе в телеграмме](https://t.me/joinchat/H2C6xYWNUwI07E5D).
+    Дз публикуется в [группе в телеграмме](https://t.me/joinchat/H2C6xYWNUwI07E5D).  
     [Успеваемость](https://docs.google.com/spreadsheets/d/17HMX-D0ettkm7mfQOLKDkYsT3Yi7FvsxfWhwNgDI6ys/edit#gid=0)
     #### Текущее 
     - [Дз 4](Ресурсы/Документы/hw4.pdf)
