@@ -61,6 +61,7 @@
     - Дз публикуется в [группе в телеграмме](https://t.me/joinchat/H2C6xYWNUwI07E5D)  
     - [Таблица успеваемости](https://docs.google.com/spreadsheets/d/17HMX-D0ettkm7mfQOLKDkYsT3Yi7FvsxfWhwNgDI6ys/edit#gid=0)
     - Временами будет проверка сделанного дз в тетради - можно получить за него плюсики (должно быть сделано больше половины задач)
+    - [Диск с лекциями](https://drive.google.com/drive/folders/1cFywUQoRWgOEfyCtY3Tev0RE9xvpJTtz)
     #### Текущее 
     - [Дз 5 (разбор)](Ресурсы/Документы/hw5_done.pdf)
     - [Дз 6](Ресурсы/Документы/hw6.pdf)
