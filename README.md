@@ -64,8 +64,11 @@
     - Временами будет проверка сделанного дз в тетради - можно получить за него плюсики (должно быть сделано больше половины задач)
     - [Диск с лекциями](https://drive.google.com/drive/folders/1cFywUQoRWgOEfyCtY3Tev0RE9xvpJTtz)
     #### Текущее 
-    - [Дз 8] (Ресурсы/Документы/hw8.pdf) - ещё не скинули
-    - Дз в тетрадях проверят на следующей паре
+    - Дз 8:
+      - [Дороги](https://acmp.ru/index.asp?main=task&id_task=15) 
+      - [Светофорчики](https://acmp.ru/index.asp?main=task&id_task=124) 
+      - [Цветной дождь](https://acmp.ru/index.asp?main=task&id_task=125) 
+      - [Вирусы](https://acmp.ru/index.asp?main=task&id_task=951)
 
     [<< к началу](#Быстрый-переход)
 
