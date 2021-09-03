@@ -32,7 +32,7 @@
 ## Другая информация
 
 - __*["Наследие ПМИ"](https://github.com/appliedMathematicsAndComputerScience/PMI_legacy) теперь теперь доступно для всех. По-возможности - указывайте на ошибки и дополняйте.*__
--  __*Задния типовых расчётов в папке [Типовики](https://github.com/nektonick/KMBO-01-homework/tree/master/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8)*__
+- __*Задния типовых расчётов в папке [Типовики](https://github.com/nektonick/KMBO-01-homework/tree/master/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8)*__
 - __*Поддержать автора можно [донатом](https://www.tinkoff.ru/rm/grebnev.nikita7/9UP5Q99768).*__
 
 ***
@@ -44,16 +44,22 @@
 
 - ### Английский язык:
     #### Текущее
+    - [Infotech fourth edition](Книги/infotech_english_for_computer_users_4th_ed_students_book-3.pdf) 
+        -  стр. 15, №5
+        -  стр. 20, №5
+    - Топик по второй теме, **Types of computers and their use**
     
     [<< к началу](#Быстрый-переход)
     
 - ### Дискретная математика:
-    #### Текущее 
+    #### Текущее
+    - Дз публикуется в [группе в телеграмме](https://t.me/joinchat/H2C6xYWNUwI07E5D)
       
     [<< к началу](#Быстрый-переход)
 
 - ### Дифференциальная геометрия
     #### Текущее
+    - Дз с [фото](Ресурсы/Изображения/3сем/диффгем_1.jpg)
       
     [<< к началу](#Быстрый-переход)
 
