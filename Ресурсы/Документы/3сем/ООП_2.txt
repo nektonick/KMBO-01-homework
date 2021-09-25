@@ -1,0 +1,73 @@
+Домашнее задание №3:
+
+Отталкиваясь от разработанного на занятиях кода (приведён в конце), выполните перечисленные ниже задачи:
+
+1. Реализовать базовые классы для унарных и тернарных операций (скажем, UnaryOperation и TernaryOperation).
+
+2. Сделать Operation базовым классом для всех типов операций, вынеся специфику бинарных операций в новый класс (например, BinaryOperation).
+Сменить соответствующим образом базовый класс для SumOperation и VectorAppendOperation.
+
+3. Реализовать примеры унарной и тернарной операций. Продемонстировать работу всех операций внутри main().
+
+4. Добавить для всех операций read-only свойства name и symbol типа std::string. Данные свойства должны задаваться в конструкторах.
+
+Пример конечной структуры:
+
+Operation —> UnaryOperation —> InverseOperation
+\-> BinaryOperation —> SumOperation
+\-> VectorAppendOperation
+\->TernaryOperation —> IfThenElseOperation
+
+Пример исходного кода:
+#include <algorithm>
+#include <iostream>
+#include <vector>
+
+template<typename ResultT, typename Arg1T, typename Arg2T>
+class Operation {
+public:
+Operation() { }
+virtual ~Operation() { }
+
+ResultT operator() (Arg1T arg1, Arg2T arg2) const {
+return calc(arg1, arg2);
+}
+
+protected:
+virtual ResultT calc(Arg1T arg1, Arg2T arg2) const = 0;
+};
+
+template<typename T>
+class SumOperation : public Operation<T, T, T> {
+protected:
+T calc(T arg1, T arg2) const { return arg1 + arg2; }
+};
+
+template<typename T>
+class VectorAppendOperation : public Operation<std::vector<T>, std::vector<T>, T> {
+protected:
+std::vector<T> calc(std::vector<T> arg1, T arg2) const {
+arg1.push_back(arg2);
+return arg1;
+}
+};
+
+int main(int argc, char **argv) {
+SumOperation<double> op;
+double a = 12.8;
+double b = 29.2;
+auto c = op(a, b);
+std::cout « "Sum of " « a « " and " « b « " is " « c « std::endl;
+
+Operation<std::vector<int>, std::vector<int>, int> *op2 = new VectorAppendOperation<int>;
+std::vector<int> nums;
+nums = (*op2)(nums, a);
+nums = (*op2)(nums, b);
+nums = (*op2)(nums, c);
+std::cout « "Numbers in vector:";
+for (auto n : nums)
+std::cout « " " « n;
+std::cout « std::endl;
+
+return 0;
+}
