@@ -45,10 +45,10 @@
 
 - ### Английский язык:
     #### Текущее
-    - [Infotech fourth edition](Книги/infotech_english_for_computer_users_4th_ed_students_book-3.pdf) 
+    - [Infotech fourth edition](Книги/Infotech_english_for_computer_users_Stud.pdf) 
         -  стр. 54, №2(b) письменно
         -  стр. 53 устно (выписать и выучить лексику, выделенную жирным)
-    - Первая часть топика, **magnetic storage**, по четвертой теме, **How can data be stored?** (по рекомендации преподавателя, достаточно использовать материалы по теме в СДО)
+    - Четвертая тема, **How can data be stored?**, первая часть - **magnetic storage**,  (по рекомендации преподавателя, достаточно использовать материалы по теме в СДО)
     
     [<< к началу](#Быстрый-переход)
     
