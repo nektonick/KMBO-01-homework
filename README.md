@@ -44,9 +44,10 @@
 
 - ### Английский язык:
     #### Текущее 
-    - [Information Technology (Oxford)](Книги/[Eric_H._Glendinning,_John_McEwan]_Oxford_English_(BookFi).pdf)
-    
+    - [Professional English in Use](Книги/esteras_s_r_fabre_e_m_professional_english_in_use_computers.pdf)
+        -  стр. 34-35, текст, №12.(1,2,3)
     - Шестая тема, **Operating Systems**, план: определение, функции, типы (Real-time OS, single-user single-task, single-user multitasking, multi-user), виды
+    - Седьмая тема, **Application Programs**, составить
     
     [<< к началу](#Быстрый-переход)
     
