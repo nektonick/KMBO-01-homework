@@ -3,9 +3,8 @@
 ## Быстрый переход
 
 - [Текущее дз](README.md#Список-текущего-и-будущего-дз)
-- [Архив дз (1 сем)](Дз_1_семестр.md#Список-старого-дз-за-1-семестр.)
-- [Архив дз (2 сем)](Дз_2_семестр.md#Список-старого-дз-за-2-семестр.)
-- [Архив дз (3 сем)](Дз_3_семестр.md#Список-старого-дз-за-3-семестр.)
+- [Архив всего дз](Архив_дз/Архив_дз.md#Список-старого-дз-за-3-семестр.)
+- [Архив дз (3 сем)](Архив_дз/Дз_3_семестр.md#Список-старого-дз-за-3-семестр.)
 - [Инструкция по добавлению дз](Как_вам_добавлять_сюда_дз/Как_добавить_дз.md)
 - [Информация по пересдачам](пересдачи.md)
 
@@ -45,9 +44,13 @@
 - ### Английский язык:
     #### Текущее 
     - [Professional English in Use](Книги/esteras_s_r_fabre_e_m_professional_english_in_use_computers.pdf)
-        -  стр. 34-35, текст, №12.(1,2,3)
-    - Шестая тема, **Operating Systems**, план: определение, функции, типы (Real-time OS, single-user single-task, single-user multitasking, multi-user), виды
-    - Седьмая тема, **Application Programs**, составить
+        стр. 36-37, текст, 13.(1,2,3)
+    - Седьмая тема, **Application Programs**
+        - Начало:
+        Application programs are programs that allow the user to do vareous types of work on a computer, for example: word proccesors, databases, spreadsheets, etc.
+        A set of related application programs is referred to as a package (O-suite).
+        Common Application Programs include: word proccesors, databases, spreadsheets, graphics, games, email, presentation programs, DTP (desktop publishing) program, website editor.
+        - Далее подробнее про тектовый редактор, таблицы, базы данных
     
     [<< к началу](#Быстрый-переход)
     
@@ -60,7 +63,6 @@
 
 - ### Дифференциальная геометрия
     #### Текущее
-
     - *[Типовой расчет](Типовики/Диффгем/tip_diffgeom-20-format.pdf)
         - №1
         - №2
@@ -69,12 +71,8 @@
 
 - ### Дифференциальные уравнения
     #### Текущее
-    - [Филиппов](Книги/FilippovDU.pdf)
-    - №533, 535, 536, 544, 546, 543, 593
-    - *[Типовой расчет](Типовики/Диффур/1.pdf)
-        - №1
-        - №2
-        - №4
+    - [Типовой расчет](Типовики/Диффур/1.pdf)
+        - №1-8
       
     [<< к началу](#Быстрый-переход)
 
@@ -86,14 +84,14 @@
 - ### Математические основы баз данных:
     - Ссылка на [гитхаб курса](https://github.com/alexander-mirea/Database2021)
     #### Текущее
-    - [Лабораторная 3](https://drive.google.com/drive/folders/1AV2Q6T8w_Hyq7AcSBOWQi0UEQe9oX94f)
+    - [Лабораторная 4](https://drive.google.com/drive/folders/1oLPvTELR0PaPkGWIK3W7rAc350URs64u)
       
     [<< к началу](#Быстрый-переход)
     
 - ### Методы математического анализа:
     #### Текущее
     - [Ефимов-Поспелов (ч.3)](Книги/Ефимов_Поспелов_Сборник_задач_по_математике_том_3.pdf)
-    - СДО Занятие 12, №3,5,6,7
+    - СДО Занятие 13, №3,4,5
     - *[Типовой расчет](Типовики/Методы/Типовой_расчет_методы_м.а_3_сем..pdf)
         - №1(а,б)
         - №2
