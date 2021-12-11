@@ -38,34 +38,30 @@
 
 - ### Алгебра и геометрия 
     #### Текущее
+    - [Типовой расчет](Типовики/Алгем/TR.pdf) 
+        - №1-8
 
     [<< к началу](#Быстрый-переход)
 
 - ### Английский язык:
     #### Текущее 
-    - [Professional English in Use](Книги/esteras_s_r_fabre_e_m_professional_english_in_use_computers.pdf)
-        стр. 36-37, текст, 13.(1,2,3)
-    - Седьмая тема, **Application Programs**
-        - Начало:
-        Application programs are programs that allow the user to do vareous types of work on a computer, for example: word proccesors, databases, spreadsheets, etc.
-        A set of related application programs is referred to as a package (O-suite).
-        Common Application Programs include: word proccesors, databases, spreadsheets, graphics, games, email, presentation programs, DTP (desktop publishing) program, website editor.
-        - Далее подробнее про тектовый редактор, таблицы, базы данных
+    - Оставшиеся топики
     
     [<< к началу](#Быстрый-переход)
     
 - ### Дискретная математика:
     - Дз публикуется в [группе в телеграмме](https://t.me/joinchat/H2C6xYWNUwI07E5D)
     #### Текущее
-    - [Дз 11](Ресурсы/Документы/3сем/finite_fields2.pdf)
+    - [Типовой расчет](Типовики/Дискра/typ.pdf) (3-й сем.)
+        - №2.1,2.2
+    
 
     [<< к началу](#Быстрый-переход)
 
 - ### Дифференциальная геометрия
     #### Текущее
-    - *[Типовой расчет](Типовики/Диффгем/tip_diffgeom-20-format.pdf)
-        - №1
-        - №2
+    - [Типовой расчет](Типовики/Диффгем/tip_diffgeom-20-format.pdf)
+        - №1-7
 
     [<< к началу](#Быстрый-переход)
 
