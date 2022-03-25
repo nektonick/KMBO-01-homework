@@ -34,7 +34,7 @@
 
 - ### Автоматы и алгоритмы:
     #### Текущее
-    - [Дз 5](Ресурсы/Документы/4сем/Домашнее_задание_от_16.03.pdf)
+    - [Дз 6](Ресурсы/Документы/4сем/Д.з._(автомат_Мура_и_ССА)_от_23.03.pdf)
 
     [<< к началу](#Быстрый-переход)
 
@@ -45,8 +45,10 @@
 
 - ### Английский язык:
     #### Текущее
-    - Просмотреть видео из раздела лексики темы "Search Engines" (СДО), составить краткое содержание (5-6 предложений)
-    - Топик по третьей теме, **Search Engines**, план: definition, short history of search engines (Archie, Google), types of search engines: Crawler-Based (crawling, indexing, ranking), Human-Powered Directories, Meta-Search Engines; examples of search engines (для справки обращаться к разделу материалов в СДО: Information Technology Activity Book, unit 8; текст The History of Search Engines)
+    - [Professional English in Use](Книги/esteras_s_r_fabre_e_m_professional_english_in_use_computers.pdf)
+      - стр. 58, текст A,B,C
+      - стр. 59, №24.(1,2,3)
+    - Топик по четвертой теме, **Websites: designing webpages**, план: definition of a website, how to design a webpage (language, builder, etc), elements of a webpage, features of a good webpage (для справки обращаться к тексту с [фото](Ресурсы/Изображения/4сем/англ_1.jpg))
     
     [<< к началу](#Быстрый-переход)
     
@@ -61,22 +63,25 @@
 
 - ### Комплексный анализ:
     #### Текущее
-    - СДО Занятие 5, №3,6,8,10,11
+    - СДО Занятие 6, №3,5,7,10,15,17
     - [Типовой расчет](Типовики/Комплан/Типовой_расчет_КА.pdf)
-        - №1,2
+        - №1,2,3
 
     [<< к началу](#Быстрый-переход) 
 
 - ### Математические основы баз данных:
     #### Текущее
-    - Ссылка на [гугл-диск курса](https://drive.google.com/drive/folders/1TTXszoVvHKvRSOkryzzU0ygwK-4dg-h_)
+    - Ссылка на [гугл-диск курса](https://drive.google.com/drive/folders/17UxhA5CCjHUXFBisNz_YaRuzzJfIeYD5)
     - Дз с [фото](Ресурсы/Изображения/4сем/базы_1.jpg)
+    - Практика 4 (на диске)
       
     [<< к началу](#Быстрый-переход)
     
 - ### Методы комплексного анализа:
     #### Текущее
-    - СДО Занятие 4, №6,8,9,10
+    - [Ефимов-Поспелов (ч.3)](Книги/Ефимов_Поспелов_Сборник_задач_по_математике_том_3.pdf)
+        - стр. 144, №13.(169,170,173)
+        - стр. 146, №13.(186,187)
     - [Типовой расчет](Типовики/Методы/Типовой_расчет_методы_КА.pdf)
         - №1,2,3,4
 
